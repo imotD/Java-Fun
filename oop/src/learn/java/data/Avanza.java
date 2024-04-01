@@ -1,6 +1,6 @@
 package learn.java.data;
 
-public class Avanza implements Car{
+public class  Avanza implements Car {
     public void drive() {
         System.out.println("Avanza drive");
     }
