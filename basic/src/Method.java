@@ -3,6 +3,8 @@ public class Method {
         sayHelloWorld();
     }
 
+   // command
+
     static void sayHelloWorld() {
         System.out.println("hello sobat");
     }
