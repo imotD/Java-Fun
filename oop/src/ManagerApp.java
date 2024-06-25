@@ -4,9 +4,9 @@ public class ManagerApp {
 //        manager.name = "Tommy Alhamra";
 //        manager.sayHello("Otnile");
 //
-//        var vp = new VicePresident();
+        var vp = new VicePresident("syahra");
 //        vp.name = "Syahra";
-//        vp.sayHello("Irfan");
-//        vp.sayHelloParent("Irfan dong");
+        vp.sayHello("Irfan");
+        vp.sayHelloParent("Irfan dong");
     }
 }

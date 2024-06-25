@@ -19,5 +19,8 @@ public class Array {
         };
 
         System.out.println(members[0][1]);
+
+        String[] namaTeman = {"Tommy", "Irfan", "Doni"};
+        System.out.println(namaTeman[1]);
     }
 }
