@@ -18,7 +18,7 @@ public class Array {
                 {"Shanum", "Ina"},
         };
 
-        System.out.println(members[0][1]);
+        System.out.println(members[0][0]);
 
         String[] namaTeman = {"Tommy", "Irfan", "Doni"};
         System.out.println(namaTeman[1]);

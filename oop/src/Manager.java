@@ -12,6 +12,6 @@ class Manager extends Employee{
     }
 
     void  sayHello(String name){
-        System.out.println("Hi " + name + ". My name is Manager " + this.name);
+        System.out.println("Hi " + name + ". My name is Manager ya " + this.name);
     }
 }

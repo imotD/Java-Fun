@@ -14,7 +14,7 @@ public class Product {
         return "Product name: " + name + ", price: " + price;
     }
 
-    @Override
+    // ini auto generate
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
