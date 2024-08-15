@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/appLuckyGuess/appLuckyGuess.iml" filepath="$PROJECT_DIR$/appLuckyGuess/appLuckyGuess.iml" />
       <module fileurl="file://$PROJECT_DIR$/appTodoList/appTodoList.iml" filepath="$PROJECT_DIR$/appTodoList/appTodoList.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCollection/javaCollection.iml" filepath="$PROJECT_DIR$/javaCollection/javaCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaGeneric/javaGeneric.iml" filepath="$PROJECT_DIR$/javaGeneric/javaGeneric.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
     </modules>
