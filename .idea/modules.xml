@@ -8,7 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaCollection/javaCollection.iml" filepath="$PROJECT_DIR$/javaCollection/javaCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaGeneric/javaGeneric.iml" filepath="$PROJECT_DIR$/javaGeneric/javaGeneric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLambda/javaLambda.iml" filepath="$PROJECT_DIR$/javaLambda/javaLambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playground/playground.iml" filepath="$PROJECT_DIR$/playground/playground.iml" />
     </modules>
   </component>
 </project>
