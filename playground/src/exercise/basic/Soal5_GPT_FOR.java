@@ -1,3 +1,5 @@
+package exercise.basic;
+
 public class Soal5_GPT_FOR {
   public static void main(String[] args) {
     //Soal 5: Perulangan for

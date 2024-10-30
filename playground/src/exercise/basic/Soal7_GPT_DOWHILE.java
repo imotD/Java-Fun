@@ -1,3 +1,5 @@
+package exercise.basic;
+
 import java.util.Scanner;
 
 public class Soal7_GPT_DOWHILE {

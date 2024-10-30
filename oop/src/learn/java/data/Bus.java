@@ -1,8 +1,9 @@
 package learn.java.data;
 
 public class Bus  implements Car{
-    public void drive() {
+    public boolean drive() {
         System.out.println("Bus driven");
+      return false;
     }
 
     public int getTier() {

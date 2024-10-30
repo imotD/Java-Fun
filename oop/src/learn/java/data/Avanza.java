@@ -1,8 +1,9 @@
 package learn.java.data;
 
 public class  Avanza implements Car {
-    public void drive() {
+    public boolean drive() {
         System.out.println("Avanza drive");
+        return false;
     }
     public int getTier() {
         return 4;

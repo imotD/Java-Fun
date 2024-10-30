@@ -159,7 +159,6 @@ public class Main {
     }
 
     public  static void testViewAddTodoList(){
-
         addTodoList("Satu");
         addTodoList("Dua");
         addTodoList("Tiga");

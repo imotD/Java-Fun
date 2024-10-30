@@ -1,3 +1,5 @@
+package exercise.basic;
+
 public class Soal4_GPT_Switch {
   public static void main(String[] args) {
     // Soal 4: Penggunaan switch

@@ -1,3 +1,5 @@
+package exercise.basic;
+
 public class Soal6_GPT_While {
   public static void main(String[] args) {
     //Soal 6: Perulangan while

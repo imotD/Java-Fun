@@ -1,3 +1,5 @@
+package exercise.basic;
+
 public class Soal1_GPT_typeData {
 
   public static void main(String[] args) {

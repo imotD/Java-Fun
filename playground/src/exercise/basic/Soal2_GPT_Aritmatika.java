@@ -1,3 +1,5 @@
+package exercise.basic;
+
 public class Soal2_GPT_Aritmatika {
 
    static int penjumlahan (int a, int b){

@@ -1,3 +1,5 @@
+package exercise.basic;
+
 public class Soal8_GPT_PRIMA {
 
   static boolean isPrime(int n) {

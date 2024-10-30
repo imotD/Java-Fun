@@ -1,3 +1,5 @@
+package exercise.basic;
+
 import java.util.Scanner;
 
 public class Soal10_GPT_KonversiSuhu {
